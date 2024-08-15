@@ -21,7 +21,7 @@ npm install
 2. Start `dev` server
 
 ```sh
-npm run start
+npm run dev
 ```
 
 Open a new browser window on http://localhost:4000 you''ll see the live preview
